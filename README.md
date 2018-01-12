@@ -14,6 +14,7 @@ Hardware needed to interface ADT75 temperature sensor with Arduino
 3. <a href="https://store.ncd.io/product/i2c-shield-for-arduino-uno/">Arduino uno</a>
 4. <a href="https://store.ncd.io/product/dual-i2c-shield-for-arduino-due-with-modular-communications-interface/">Arduino Due</a>
 5. <a href="https://store.ncd.io/product/adt75-temperature-sensor-%C2%B11c-12-bit-with-3-address-lines-i2c-mini-module/">ADT75 Temperature Sensor </a>
+6. <a href="https://store.ncd.io/product/i%C2%B2c-cable/">I2C Cable</a>
 
 ## Arduino
 Download and install Arduino Software (IDE) on your machine. Steps to install Arduino are provided at:
