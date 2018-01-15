@@ -1,4 +1,3 @@
-# Arduino_Library_ADT75_Temperature_Sensor
 
 [![ADT75](ADT75_I2C.png)](https://store.ncd.io/product/adt75-temperature-sensor-%C2%B11c-12-bit-with-3-address-lines-i2c-mini-module/).
 
