@@ -20,8 +20,7 @@ Hardware needed to interface ADT75 temperature sensor with Arduino
 
 ADT75 :
 
-ADT75 The ADT75 is a complete temperature monitoring system in 8-lead MSOP and SOIC packages. It contains a band gap temperature sensor and a 12-bit analog-to-digital converter
-(ADC) to monitor and digitize the temperature to a resolution of 0.0625°C.
+ADT75 The ADT75 is a complete temperature monitoring system in 8-lead MSOP and SOIC packages. It contains a band gap temperature sensor and a 12-bit analog-to-digital converter(ADC) to monitor and digitize the temperature to a resolution of 0.0625°C.
 
 Applications:
 
@@ -49,7 +48,8 @@ Compile and upload the code on Arduino IDE and see the output on Serial Monitor.
 
 How to Use the ADT75 Arduino Library
 The ADT75 has a number of settings, which can be configured based on user requirements.
-1.The SMBus Alert:The OS/ALERT pin can behave as a SMBus alert pin when the SMBus alert function is enabled by setting Bit D7 in the configuration register. 
+
+1.The SMBus Alert:The OS/ALERT pin can behave as a SMBus alert pin when the SMBus alert function is enabled by setting Bit D7 in the    configuration register. 
 
     adt.setSM(SM_DISABLED);               // Disabled
     
